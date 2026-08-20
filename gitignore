@@ -1,0 +1,4 @@
+agent_memory.json
+micro1_check_log.json
+__pycache__/
+*.pyc
